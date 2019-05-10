@@ -209,9 +209,7 @@
 
 ##### 实现的效果
 
-![有tabBar和naviBar时](https://raw.githubusercontent.com/oymuzi/OMRotate/master/tabBarAndNaviBar.gif)
-
-![只有tabBar](https://raw.githubusercontent.com/oymuzi/OMRotate/master/tabBarGif.gif)
+![有tabBar和naviBar时](https://raw.githubusercontent.com/oymuzi/OMRotate/master/tabBarAndNaviBar.gif)![只有tabBar](https://raw.githubusercontent.com/oymuzi/OMRotate/master/tabBarGif.gif)
 
 
 
