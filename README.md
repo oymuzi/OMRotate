@@ -208,8 +208,10 @@
 
 
 ##### 实现的效果
-
+有底部栏和导航栏的时候：
 ![有tabBar和naviBar时](https://raw.githubusercontent.com/oymuzi/OMRotate/master/tabBarAndNaviBar.gif)
+
+只有底部栏的时候：
 ![只有tabBar](https://raw.githubusercontent.com/oymuzi/OMRotate/master/tabBarGif.gif)
 
 
